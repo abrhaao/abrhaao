@@ -11,6 +11,7 @@
 
 - 💬 Ask me about **Jquery, Java, Oracle, Data Science**
 - <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/291/flag-brazil_1f1e7-1f1f7.png" alt="Flag: Brazil on JoyPixels 6.6" width="20" height="20"> I'm a full stack developer from Rio de Janeiro, Brazil
+- 🤘🏻 I'm bass player in a classic rock band
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
