@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrhaao&label=Profile%20views&color=0e75b6&style=flat" alt="abrhaao" /> </p>
 
-- 🔭 I’m currently working on **Industrial Maintenance features**
+- 🔭 I’m currently working on **Industrial Maintenance features** and **Futronic Biometric Interface**
 
 - 👯 I’m looking to collaborate on **Science and Astronomy projects, or anything to help with civilization's future**
 
