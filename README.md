@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrhaao&label=Profile%20views&color=0e75b6&style=flat" alt="abrhaao" /> </p>
 
-- 🔭 I’m currently studing/working on **Industrial Maintenance features**, **Javascrip Promises** and **Security Rules Good Practices**
+- 🔭 I’m currently studing/working on **Industrial Maintenance features**, **Vue 3** and **Security Rules Good Practices**
 
 - 👯 I’m looking to collaborate on **Science and Astronomy projects, or anything to help with civilization's future**
 
